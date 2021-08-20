@@ -25,11 +25,14 @@ Other good (better) guides by Eric Colleary:
 ## GitHub Organizations/Users (active and inactive)
 
 - [IFTR-DH](https://github.com/IFTR-DH)
+- [DunhamsData](https://github.com/DunhamsData)
 - [Derek Miller](https://github.com/hamlet82)
 - [Matt Miller](https://github.com/thisismattmiller)
 - [Miguel Escobar](https://github.com/villaorlado)
 - [Antonio Jiménez Mavillard](https://github.com/mavillard)
 - [Kalle Westerling](https://github.com/kallewesterling)
+- [Kate Elswit](https://github.com/kelswit)
+- [Mattie Burkers](https://github.com/mattieburkert)
 
 ## Websites
 
