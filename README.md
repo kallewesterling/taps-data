@@ -11,6 +11,7 @@ Other good (better) guides by Eric Colleary:
 ## GitHub Repositories (active and inactive)
 
 - [Vilna Troupe D3.js](https://github.com/ntaft/vilnatroupe-globe-d3)
+- [digital-humanities-in-theatre-and-performance-studies](https://github.com/kallewesterling/digital-humanities-in-theatre-and-performance-studies)
 - [Digital Humanities Tools for Theatre and Performance](https://github.com/IFTR-DH/iftrdh)
 - [Performance Artist Database](https://github.com/thisismattmiller/padb.net)
 - [Re-Collecting Theater History](https://github.com/ninkira/theaterhistory_visulisation)
