@@ -5,8 +5,11 @@ Other good (better) guides by Eric Colleary:
 - [Digital Humanities Projects in Performing Arts](https://www.stagestories.org/resources/digital-humanities-projects-in-performing-arts)
 
 
-## Datasets
+## Notable Datasets
 
+- [Theatrical playbills from Britain and Ireland (264 volumes = 47GB)](https://bl.iro.bl.uk/concern/datasets/a8534aff-c8e3-4fc8-adc1-da542080b1e3?locale=en#?c=0&m=0&s=0&cv=0&xywh=-1%2C-58%2C608%2C464)
+- [London Stage Database full dataset](https://londonstagedatabase.uoregon.edu/data.php)
+- [XML-encoded transcripts of the Harry Watkins Diary volumes](https://quod.lib.umich.edu/h/hwatkins/WatkinsDiaryDownloadableFiles.zip)
 
 ## GitHub Repositories (active and inactive)
 
@@ -21,6 +24,7 @@ Other good (better) guides by Eric Colleary:
 - [Parisian theatres](https://github.com/phacks/theatres-parisiens)
 - [Nottingham New Theatre History Project](https://github.com/newtheatre/history-project)
 - [Historic And Open Artists & Performances Database](https://github.com/SLKTH/popdb)
+- [London Stage Database](https://github.com/LondonStageDB)
 
 ## GitHub Organizations/Users (active and inactive)
 
