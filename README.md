@@ -8,8 +8,9 @@ Other good (better) guides by Eric Colleary:
 ## Notable Datasets
 
 - [Theatrical playbills from Britain and Ireland (264 volumes = 47GB)](https://bl.iro.bl.uk/concern/datasets/a8534aff-c8e3-4fc8-adc1-da542080b1e3?locale=en#?c=0&m=0&s=0&cv=0&xywh=-1%2C-58%2C608%2C464)
-- [London Stage Database full dataset](https://londonstagedatabase.uoregon.edu/data.php)
-- [XML-encoded transcripts of the Harry Watkins Diary volumes](https://quod.lib.umich.edu/h/hwatkins/WatkinsDiaryDownloadableFiles.zip)
+- [London Stage Database full dataset (different data formats)](https://londonstagedatabase.uoregon.edu/data.php)
+- [XML-encoded transcripts of the Harry Watkins Diary volumes (XML)](https://quod.lib.umich.edu/h/hwatkins/WatkinsDiaryDownloadableFiles.zip)
+- [Live data from vilnatroupe.com (JSON)](http://vilnatroupe.com/data/data_clean.json)
 
 ## GitHub Repositories (active and inactive)
 
