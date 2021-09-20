@@ -11,6 +11,7 @@ Other good (better) guides by Eric Colleary:
 - [London Stage Database full dataset (different data formats)](https://londonstagedatabase.uoregon.edu/data.php)
 - [XML-encoded transcripts of the Harry Watkins Diary volumes (XML)](https://quod.lib.umich.edu/h/hwatkins/WatkinsDiaryDownloadableFiles.zip)
 - [Live data from vilnatroupe.com (JSON)](http://vilnatroupe.com/data/data_clean.json)
+- [Database of vilnatroupe.com, January 2016 (Excel)](http://vilnatroupe.com/data/current_database.xlsx)
 
 ## GitHub Repositories (active and inactive)
 
